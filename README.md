@@ -1,1 +1,1 @@
-# RegExp
+Simple RegExp Tutorial with minimal JavaScript
